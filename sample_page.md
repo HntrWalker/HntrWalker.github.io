@@ -22,7 +22,7 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/Screen Recording 2020-10-30 at 1.51.30 PM.mov?raw=true">
+<img src="images/Screen Recording 2020-10-30 at 1.51.30 PM.mov?raw=true"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
