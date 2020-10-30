@@ -5,7 +5,7 @@
 ### SwiftUI iOS Application
 
 [Sampler](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Sampler_HomePage?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
