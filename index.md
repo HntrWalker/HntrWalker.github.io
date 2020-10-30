@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### SwiftUI iOS Application
 
-[Project 1 Title](/sample_page)
+[Sampler](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
