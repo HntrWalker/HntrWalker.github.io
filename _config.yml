@@ -1,12 +1,4 @@
 title: Hunter Walker - Portfolio # your name (or website title) here
-
-   <body>
-      <h1>Our Products</h1>
-      <p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">
-         This is demo text
-      </p>
-   </body>
-
 logo: "/images/new new - 1.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
