@@ -5,11 +5,9 @@
 ### Technology Used
 
 <a href="https://developer.apple.com/swift/">1. Swift</a>
-
-1. Swift
-2. SwiftUI
-3. AVfoundation
-4. Core Data.
+<a href="https://developer.apple.com/documentation/swiftui">2. SwiftUI</a>
+<a href ="https://developer.apple.com/documentation/avfoundation">3. AVFoundation </a>
+<a href ="https://developer.apple.com/documentation/coredata">4. Core Data </a>
 
 <img src="images/Screen Recording 2020-10-30 at 1.51.30 PM.mov?raw=true"/>
 
