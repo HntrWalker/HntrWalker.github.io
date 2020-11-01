@@ -3,6 +3,9 @@
 **Project description:** Sampler is an iOS application that I have been working on over the course of the past few months. I intended for this app to have a simple and intuitive UI. There are four tabs on the application: sample, sequence, track and edit. Each of the first three tabs allow the user to add a new music creation tool, where the fourth tab enables users to effectively store, access and edit their audio samples. 
 
 ### Technology Used
+
+<a href="https://developer.apple.com/swift/">1. Swift</a>
+
 1. Swift
 2. SwiftUI
 3. AVfoundation
