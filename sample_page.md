@@ -17,5 +17,3 @@
 
 <img src="images/Screen Recording 2020-10-30 at 1.51.30 PM.mov?raw=true"/>
 <img src="images/Simulator Screen Shot - iPhone SE (2nd generation) - 2020-10-30 at 13.29.03.png?raw=true"/>
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
