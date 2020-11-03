@@ -1,6 +1,6 @@
 ## SAMPLER
 
-**Demo** [Video Presentation](https://www.youtube.com/watch?v=nQHyY94PGT4)
+[Video Presentation](https://www.youtube.com/watch?v=nQHyY94PGT4)
 <br>
 [Document](/pdf/Senior Proj..pdf)
 
