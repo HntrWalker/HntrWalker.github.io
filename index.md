@@ -12,7 +12,7 @@
 ### Agricultural Data Based Solutions
 
 [Agriculture](/agri_sol)
-<img src="images/CircSampler_HomePage.png?raw=true"/>
+<img src="pdf/logo.jpg?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
