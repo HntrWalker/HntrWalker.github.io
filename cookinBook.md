@@ -12,4 +12,7 @@
   <br>
 </p>  
 
-<img src="?raw=true"/>
+<img src="images/homePage.jpg?raw=true"/>
+<img src="images/blank.jpg?raw=true"/>
+<img src="images/filled_in.jpg?raw=true"/>
+<img src="images/recipepage.jpg?raw=true"/>
