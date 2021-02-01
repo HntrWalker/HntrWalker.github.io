@@ -9,13 +9,6 @@
 
 ---
 
-### Agricultural Data Based Solutions
-
-[Agriculture](/agri_sol)
-<img src="pdf/logo.jpg?raw=true"/>
-
----
-
 ### Cook Book SwiftUI iOS Application
 
 [Cookin' Book](/cookinBook)
