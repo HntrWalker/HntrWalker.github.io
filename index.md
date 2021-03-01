@@ -9,6 +9,13 @@
 
 ---
 
+### Mix Assistant
+
+[Project](/mixAssist)
+<img src="images/MixAssist.png?raw=true"/>
+
+---
+
 ### iOS Application
 
 [Cookin' Book](/cookinBook)
