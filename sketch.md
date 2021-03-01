@@ -17,6 +17,8 @@
 ### Artemis And The Moon
 <img src="images/ArtieLogo_Final.png?raw=true"/>
 <img src="images/Artie_Infographic.png?raw=true"/>
+<img src="images/Artie_Infographic_Instagram.png?raw=true"/>
+<img src="images/?raw=true"/>
 <img src="images/?raw=true"/>
 <img src="images/?raw=true"/>
 <img src="images/?raw=true"/>
