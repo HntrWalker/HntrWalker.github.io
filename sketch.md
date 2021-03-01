@@ -1,6 +1,6 @@
 ## SKETCH PROJECTS
 
-**Description:** These are some examples of what I have done within Sketch. Primarily my efforts have been directed towards app icon design and promotional brand content. 
+**Description:** These are some examples of what I have done within Sketch. Primarily my efforts have been directed towards app icon design and promotional content. 
 
 ### Technologies 
 <p>
@@ -11,6 +11,7 @@
 <a href="https://www.apple.com/pages/">3. Pages</a>
 </p>  
 
+### App/Project Icons
 <img src="images/?raw=true"/>
 <img src="images/?raw=true"/>
 <img src="images/?raw=true"/>
