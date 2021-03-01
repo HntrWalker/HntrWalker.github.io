@@ -7,7 +7,7 @@
 <a href="https://www.sketch.com">1. Sketch</a>
 <br>
 <a href="https://coolors.co">2. Coolors</a>
-</br>
+<br>
 <a href="https://www.apple.com/pages/">3. Pages</a>
 </p>  
 
