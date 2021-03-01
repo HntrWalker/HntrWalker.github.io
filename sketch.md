@@ -22,4 +22,4 @@
 <img src="images/1_2.png?raw=true"/>
 <img src="images/1_3.png?raw=true"/>
 <img src="images/name.png?raw=true"/>
-<img src="image/Punch.png?raw=true"/>
+<img src="images/Punch.png?raw=true"/>
