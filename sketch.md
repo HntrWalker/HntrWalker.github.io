@@ -21,4 +21,4 @@
 <img src="images/1_1.png?raw=true"/>
 <img src="images/1_2.png?raw=true"/>
 <img src="images/1_3.png?raw=true"/>
-<img src="images/?raw=true"/>
+<img src="images/name.png?raw=true"/>
