@@ -1,18 +1,13 @@
-## COOKIN' BOOK
+## SKETCH PROJECTS
 
-**Project description:** This application is currently in an unfinished state. The app provides a space for users to input their own custom recipes. From the home page the user can open a form which will require the user to enter a title, category, step amount and ingredient amount. Upon tapping the 'add' button the recipe navigation is added to a listview where users can then, through text fields, enter ingredients and cooking instructions. 
+**Description:** These are some examples of what I have done within Sketch. Primarily my efforts have been directed towards app icon design and promotional brand content. 
 
 ### Technologies 
 <p>
-<a href="https://www.apple.com/swift/">1. Swift</a>
-  <br>
-<a href="https://developer.apple.com/documentation/swiftui">2. SwiftUI</a>
-  <br>
- <a href="https://developer.apple.com/documentation/coredata">3. Core Data</a>
-  <br>
+<a href="https://www.sketch.com">1. Sketch</a>
 </p>  
 
-<img src="images/homePage.jpg?raw=true"/>
-<img src="images/blank.jpg?raw=true"/>
-<img src="images/filled_in.jpg?raw=true"/>
-<img src="images/recipepage.jpg?raw=true"/>
+<img src="images/?raw=true"/>
+<img src="images/?raw=true"/>
+<img src="images/?raw=true"/>
+<img src="images/?raw=true"/>
