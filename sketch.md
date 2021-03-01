@@ -12,7 +12,7 @@
 </p>  
 
 ### App/Project Icons
-<img src="images/?raw=true"/>
+<img src="images/Cookin'Book_Gradient.png?raw=true"/>
 <img src="images/?raw=true"/>
 <img src="images/?raw=true"/>
 <img src="images/?raw=true"/>
