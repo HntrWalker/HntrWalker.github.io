@@ -5,6 +5,10 @@
 ### Technologies 
 <p>
 <a href="https://www.sketch.com">1. Sketch</a>
+<br>
+<a href="https://coolors.co">1. Coolors</a>
+</br>
+<a href="https://www.apple.com/pages/">1. Pages</a>
 </p>  
 
 <img src="images/?raw=true"/>
