@@ -15,6 +15,6 @@
 <img src="images/Cookin'Book_Gradient.png?raw=true"/>
 
 ### Artemis And The Moon
-<img src="images/?raw=true"/>
+<img src="images/ArtieLogo_Final.png?raw=true"/>
 <img src="images/?raw=true"/>
 <img src="images/?raw=true"/>
