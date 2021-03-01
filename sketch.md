@@ -18,7 +18,7 @@
 <img src="images/ArtieLogo_Final.png?raw=true"/>
 <img src="images/Artie_Infographic.png?raw=true"/>
 <img src="images/Artie_Infographic_Instagram.png?raw=true"/>
-<img src="images/?raw=true"/>
-<img src="images/?raw=true"/>
-<img src="images/?raw=true"/>
+<img src="images/1_1.png?raw=true"/>
+<img src="images/1_2.png?raw=true"/>
+<img src="images/1_3.png?raw=true"/>
 <img src="images/?raw=true"/>
