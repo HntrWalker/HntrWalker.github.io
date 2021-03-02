@@ -9,9 +9,9 @@
 
 ---
 
-### Mix Assistant
+### Project
 
-[Project](/mixAssist)
+[Mix Assistant](/mixAssist)
 <img src="images/MixAssist.png?raw=true"/>
 
 ---
