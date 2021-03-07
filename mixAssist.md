@@ -14,4 +14,9 @@
   <br>
 </p>  
 
+**Confusion Matrix**
+<img src="images/SpotifyGenreClassConfusionMatrix.png?raw=true"/>
+**Precision, Recall and F1**
+<img src="images/SpotifyGenreClassScores.png?raw=true"/>
+**Performance Description**
 <img src="images/Description.png?raw=true"/>
