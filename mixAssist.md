@@ -14,4 +14,4 @@
   <br>
 </p>  
 
-<img src="images/homePage.jpg?raw=true"/>
+<img src="pdf/Description.pdf?raw=true"/>
