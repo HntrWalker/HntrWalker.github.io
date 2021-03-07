@@ -1,5 +1,7 @@
 ## MIX ASSISTANT 
 
+[ipynb File](pdf/snr.pdf)
+
 **Project description:** Place Holder
 
 ### Technologies 
