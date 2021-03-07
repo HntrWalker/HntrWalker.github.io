@@ -1,6 +1,6 @@
 ## MIX ASSISTANT 
 
-[ipynb File](pdf/snr.pdf)
+[ipynb File](pdf/SpotifyGenreClassifier.ipynb)
 
 **Project description:** Place Holder
 
