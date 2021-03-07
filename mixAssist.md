@@ -22,4 +22,4 @@
 
 <img src="images/SpotifyGenreClassConfusionMatrix.png?raw=true"/>
 <img src="images/SpotifyGenreClassScores.png?raw=true"/>
-<img src="images/Description.png?raw=true"/>
+<img src="images/SpotifyClassDescription.png?raw=true"/>
