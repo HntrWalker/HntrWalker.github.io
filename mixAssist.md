@@ -10,11 +10,11 @@
   <br>
  <a href="https://developer.spotify.com/dashboard/login">3. Spotify Web API</a>
   <br>
- <a href="https://www.scipy.org">3. SciPy</a> 
+ <a href="https://www.scipy.org">4. SciPy</a> 
   <br>
- <a href="https://www.tableau.com">3. Tableau</a>  
+ <a href="https://www.tableau.com">5. Tableau</a>  
   <br>
- <a href="https://colab.research.google.com/notebooks/intro.ipynb#recent=true">3. Google Colaboratory</a>   
+ <a href="https://colab.research.google.com/notebooks/intro.ipynb#recent=true">6. Google Colaboratory</a>   
   <br>
 </p>  
 
