@@ -29,4 +29,12 @@
 <img src="images/Sketch_logo.png?raw=true"/>
 
 ---
+
+### Tableau and Data Analysis
+
+[Examples](/sketch)
+<img src="images/DataAnalysisGraphic.png?raw=true"/>
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
