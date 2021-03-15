@@ -1,6 +1,6 @@
 ## Alternative Rock Band Origin Locations Over the Decades
 
-[ipynb File](pdf/SpotifyGenreClassifier.ipynb)
+[ipynb File](pdf/AltRock.ipynb)
 
 **Project description:** Place Holder
 
