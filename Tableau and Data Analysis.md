@@ -1,6 +1,8 @@
 ## Alternative Rock Band Origin Locations Over the Decades
 
-[ipynb File](pdf/AltRock.ipynb)
+<a href="https://public.tableau.com/profile/hunter.walker#!/vizhome/AltRock/Sheet1?publish=yes">Tableau Public Link</a>
+<br>
+https://public.tableau.com/profile/hunter.walker#!/vizhome/AltRock/Sheet1?publish=yes[ipynb File](pdf/AltRock.ipynb)
 <br>
 [Final Data Set](pdf/geospatial.pdf)
 
