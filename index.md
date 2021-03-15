@@ -32,7 +32,7 @@
 
 ### Tableau and Data Analysis
 
-[Examples](/sketch)
+[Examples](/Tableau and Data Analysis)
 <img src="images/DataAnalysisGraphic.png?raw=true"/>
 
 ---
