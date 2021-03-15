@@ -6,7 +6,7 @@
 <br>
 [Final Data Set](pdf/geospatial.pdf)
 
-**Project description:** Through the Wikipedia library available to Python I gathered, from <a href="https://en.wikipedia.org/wiki/List_of_lists_of_lists">List of Lists of Lists,
+**Project description:** Through the Wikipedia library available to Python I gathered, from <a href="https://en.wikipedia.org/wiki/List_of_lists_of_lists">List of Lists of Lists</a>,
 a set of over 1,200 Alternative Rock artists' origin location and start date. From there I proceeded to clean the data, removing unnecessary links, 
 fixing improperly formatted cells and gathering, through GeoPy, the necessary geospatial data needed to allow myself to create a functional map within Tableau.
 Most of the described processes were automated within Google Colaboratory. I was able to scrape and specify my needed data through Beautiful Soup and the Wikipedia
