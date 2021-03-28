@@ -40,7 +40,7 @@ Library.
 <br>
 [Final Data Set](pdf/Parks_Forests.pdf)
 
-**Project description:** Through the Wikipedia library available to Python I gathered, from <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States">List of national parks in the United States</a>, and <a href="https://en.wikipedia.org/wiki/List_of_national_forests_of_the_United_States">List of national forests in the United States</a> all geospatial data which was then mapped through Tableau. The final result reflects the distance from my personal home in the state of Florida. 
+**Project description:** Through the Wikipedia library available to Python I gathered, from <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States">List of national parks in the United States</a>, and <a href="https://en.wikipedia.org/wiki/List_of_national_forests_of_the_United_States">List of national forests in the United States</a>, all relevant geographic data which was then mapped through Tableau. The final result reflects the distance from my personal home in the state of Florida.
 
 ### Technologies 
 <p>
