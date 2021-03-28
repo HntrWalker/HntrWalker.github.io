@@ -32,3 +32,34 @@ Library.
 
 <img src="images/altrockmap.png?raw=true"/>
 
+## National Parks and Forests in the United States
+
+<a href="https://public.tableau.com/profile/hunter.walker#!/vizhome/NatlParks_Forests/Sheet1?publish=yes">Tableau Public Link</a>
+<br>
+[ipynb File](pdf/NatlParksForests.ipynb)
+<br>
+[Final Data Set](pdf/Parks_Forests.pdf)
+
+**Project description:** Through the Wikipedia library available to Python I gathered, from <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States">List of national parks in the United States</a>, and <a href="https://en.wikipedia.org/wiki/List_of_national_forests_of_the_United_States">List of national forests in the United States</a> all geospatial data which was then mapped through Tableau. The final result reflects the distance from my personal home in the state of Florida. 
+
+### Technologies 
+<p>
+ <a href="https://www.python.org">1. Python</a>
+  <br>
+ <a href="https://pypi.org/project/wikipedia/">2. Wikipedia Library</a>
+  <br>
+ <a href="https://pandas.pydata.org">3. Pandas</a>
+  <br>
+ <a href="https://www.crummy.com/software/BeautifulSoup/">4. Beautiful Soup</a> 
+  <br>
+ <a href="https://www.tableau.com">5. Tableau</a>  
+  <br>
+ <a href="https://colab.research.google.com/notebooks/intro.ipynb#recent=true">6. Google Colaboratory</a>   
+  <br>
+   <a href="https://geopy.readthedocs.io/en/stable/">7. GeoPy</a>  
+  <br>
+ <a href="https://numpy.org">8. NumPy</a>  
+  <br>
+</p>  
+
+<img src="images/Screen Shot 2021-03-28 at 5.42.42 PM.png"/>
