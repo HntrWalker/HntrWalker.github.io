@@ -1,6 +1,7 @@
 ## MIX ASSISTANT 
 
 [ipynb File](pdf/SpotifyGenreClassifier.ipynb)
+[Data Summary](images/SpotifyClassDescription.png?raw=true)
 
 **Project description:** Place Holder
 
@@ -22,4 +23,5 @@
 
 <img src="images/SpotifyGenreClassConfusionMatrix.png?raw=true"/>
 <img src="images/SpotifyGenreClassScores.png?raw=true"/>
-<img src="images/SpotifyClassDescription.png?raw=true"/>
+
+
