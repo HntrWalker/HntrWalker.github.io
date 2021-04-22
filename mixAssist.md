@@ -9,7 +9,7 @@
 
 **Step 1: Genre classification using the Spotify Web API**
 <br>
-I will be approaching this project through a pipeline of machine learning steps. The first is genre classification. There are often trends within a given genre, and there are often trends within a given users listening preferences.
+I will be approaching this project through a pipeline of machine learning steps. The first is genre classification. There are often trends within a given genre, and there are often trends within a given users listening preferences. This use of the API was an effective learning experience for me. However, being that I do not actually have access the audio files themselves, and thus the Spectrograms or MFCCs, I was limited in what I could achieve. 
 
 ### Technologies 
 <p>
@@ -29,5 +29,10 @@ I will be approaching this project through a pipeline of machine learning steps.
 
 <img src="images/SpotifyGenreClassConfusionMatrix.png?raw=true"/>
 <img src="images/SpotifyGenreClassScores.png?raw=true"/>
+
+**Step 2: Genre classification using the GTZAN Dataset**
+<br>
+With the GTZAN Dataset, downloaded from Kaggle, I was able to achieve over 70% accuracy across 9 genres (I had to remove Jazz). This provided me with an approach moving forward to classify genres once I have assembled my own dataset. This effectively introduced me to Convolutional Neural Networks and TensorFlow. 
+
 
 
