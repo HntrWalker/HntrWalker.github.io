@@ -34,5 +34,15 @@ I will be approaching this project through a pipeline of machine learning steps.
 <br>
 With the GTZAN Dataset, downloaded from Kaggle, I was able to achieve over 70% accuracy across 9 genres (I had to remove Jazz). This provided me with an approach moving forward to classify genres once I have assembled my own dataset. This effectively introduced me to Convolutional Neural Networks and TensorFlow. 
 
-
+### Technologies 
+<p>
+ <a href="https://www.python.org">1. Python</a>
+  <br>
+ <a href="https://scikit-learn.org/stable/">2. Scikit-learn</a>
+  <br>
+ <a href="https://www.tensorflow.org">3. TensorFlow</a>
+  <br>
+ <a href="https://matplotlib.org">4. Matplotlib</a> 
+  <br>
+</p> 
 
