@@ -48,3 +48,4 @@ With the GTZAN Dataset, downloaded from Kaggle, I was able to achieve over 70% a
   <br>
 </p> 
 
+<img src="images/CNN_GTZAN.png?raw=true"/>
