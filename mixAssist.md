@@ -52,6 +52,6 @@ With the GTZAN Dataset, downloaded from Kaggle, I was able to achieve over 70% a
 
 **Step 3: Setting up a basic application for importing audio files and running the classification**
 <br>
-Currently I am working to build an application within SwiftUI to allow users to upload audio files for processing. The currently challenge is dealing with Uniform Type Identifiers, and running Python Scripts within the app. Below is a screen shot of the general idea for file uploads. 
+Currently I am working to build an application within SwiftUI to allow users to upload audio files for processing. The current challenge is dealing with Uniform Type Identifiers and running Python Scripts within the app. Below is a screen shot of the general idea for file uploads. 
 
 <img src="images/MixAssistFileUpload.png?raw=true"/>
