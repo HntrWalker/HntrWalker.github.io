@@ -1,9 +1,9 @@
 ## MIX ASSISTANT 
 
+[A Brief Intro to Audio Data](pdf/AudioUnderstanding.pdf)
+
 **Project description:** Mix Assistant is an application that will allow audio producers to gain insights into their audio 'mix' according to their individual listening preferences. Users will tell the application what song mixes they like, and Mix Assistant will save these preferences. Users will then be able to upload their own audio files for Mix Assistant to process and return tips and hints for the user to achieve their desired mix. 
 <br>
-
-[A Brief Intro to Audio Data](pfd/AudioUnderstanding.pdf)
 
 **Step 1: Genre classification using the Spotify Web API**
 <br>
