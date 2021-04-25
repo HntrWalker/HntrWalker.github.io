@@ -3,6 +3,8 @@
 **Project description:** Mix Assistant is an application that will allow audio producers to gain insights into their audio 'mix' according to their individual listening preferences. Users will tell the application what song mixes they like, and Mix Assistant will save these preferences. Users will then be able to upload their own audio files for Mix Assistant to process and return tips and hints for the user to achieve their desired mix. 
 <br>
 
+[A Brief Intro to Audio Data](pfd/AudioUnderstanding.pdf)
+
 **Step 1: Genre classification using the Spotify Web API**
 <br>
 I will be approaching this project through a pipeline of machine learning steps. The first is genre classification. There are often trends within a given genre, and there are often trends within a given users listening preferences. This use of the API was an effective learning experience for me. However, being that I do not actually have access the audio files themselves, and thus the Spectrograms or MFCCs, I was limited in what I could achieve. 
