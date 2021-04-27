@@ -79,5 +79,6 @@ Library.
   <br>
  </p>
   
+ <img src="images/bears.png"/>
   
   
