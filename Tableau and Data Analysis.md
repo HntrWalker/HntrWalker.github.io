@@ -70,5 +70,14 @@ Library.
 <br>
 
 ### Technologies 
- <a href="https://www.tableau.com">5. Tableau</a>  
+<p>
+ <a href="https://www.tableau.com">1. Tableau</a>  
   <br>
+ <a href="https://www.microsoft.com/en-us/microsoft-365/excel">2. Microsoft Excel</a>  
+  <br>
+   <a href="https://www.apple.com/numbers/">3. Apple Numbers</a>  
+  <br>
+ </p>
+  
+  
+  
