@@ -63,3 +63,12 @@ Library.
 </p>  
 
 <img src="images/Screen Shot 2021-03-28 at 5.42.42 PM.png"/>
+
+## Bear Populations and Threats
+
+<a href="https://public.tableau.com/profile/hunter.walker#!/vizhome/BearStatus/Dashboard1">Tableau Public Link</a>
+<br>
+
+### Technologies 
+ <a href="https://www.tableau.com">5. Tableau</a>  
+  <br>
