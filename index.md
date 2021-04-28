@@ -37,4 +37,11 @@
 
 ---
 
+### Writing
+
+[Articles](/writing)
+<img src="images/WritingLogo.png?raw=true"/>
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
