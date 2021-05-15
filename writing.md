@@ -18,3 +18,10 @@
 <br>
 
 **Project description:** This article breaks down my personal experience with daily journaling and how it has benefited my life. 
+
+## Which Direction to Thru-Hike on the Appalachian Trail
+
+<a href="https://hntrwalker7.medium.com/which-direction-to-thru-hike-on-the-appalachian-trail-d3484f8badd2">Medium Link</a>
+<br>
+
+**Project description:** This article covers the reasons why a potential thru-hiker may consider the various directional options regarding the Appalachian Trail. 
