@@ -13,7 +13,6 @@
 **Project description:** This article covers the importance of bears to their respective ecosystems and the Earth. The article goes on to discuss why it is important to conserve the eight species, and how those efforts ripple out.
 
 ## How Daily Journaling May Improve Your Life
-## How it Still is Improving Mine — A Journaling Appreciation Post
 
 <a href="https://hntrwalker7.medium.com/how-daily-journaling-may-improve-your-life-9290625abb09">Medium Link</a>
 <br>
