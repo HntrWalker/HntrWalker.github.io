@@ -99,6 +99,7 @@ Library.
 <br>
 ## [Impressions vs. Device Brand Data](pdf/companyX_impressions_vs_brand.pdf)
 <br>
+**Step 4:** To further the study I needed to view where ads were being viewed using the 'platform position.'
 <img src="images/platform_position_q.png"/>
 <br>
 ## [Platform Position Per Ad Group Per Campaign Data](pdf/companyX_platform_position_perAdGroup_perCampaign.pdf)
