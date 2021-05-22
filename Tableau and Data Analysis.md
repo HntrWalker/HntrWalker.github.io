@@ -83,6 +83,9 @@ Library.
  
 ## Company 'X' Data Analysis
 
+### Question:
+**How do UX factors play into ad performance? How might variables outside of marketing control be mitigated?**
+
 **Step 1:** I first needed to take into account the unique campaigns present and their internal ad groupings. 
 <img src="images/Distinct_Campaigns.png"/>
 <br>
@@ -94,10 +97,10 @@ Library.
 <br>
 <a href="https://public.tableau.com/profile/hunter.walker#!/vizhome/AltRock/Sheet1?publish=yes">Tableau Public Link</a>
 <br>
-## [Impressions vs. Device Brand](pdf/companyX_impressions_vs_brand.pdf)
+## [Impressions vs. Device Brand Data](pdf/companyX_impressions_vs_brand.pdf)
 <br>
 <img src="images/platform_position_q.png"/>
 <br>
-## [Platform Position Per Ad Group Per Campaign](pdf/companyX_platform_position_perAdGroup_perCampaign.pdf)
+## [Platform Position Per Ad Group Per Campaign Data](pdf/companyX_platform_position_perAdGroup_perCampaign.pdf)
 <br>
   
