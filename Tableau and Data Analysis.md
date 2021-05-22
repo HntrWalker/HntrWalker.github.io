@@ -83,11 +83,16 @@ Library.
  
 ## Company 'X' Data Analysis
 
+**Step 1:** I first needed to take into account the unique campaigns present and their internal ad groupings. 
 <img src="images/Distinct_Campaigns.png"/>
 <br>
+**Step 2:** I then utilized aggregate functions (MAX, AVG) to conceptualize the performance of each ad grouping in terms of 'impressions.'
 <img src="images/Average_Impressions_Per_Ad_Group.png"/>
 <br>
+**Step 3:** The goal was to view the impressions against the device brand in order to determine the impact of brand on ad performance. In all cases other than campaign #2 (6097547919387, Awareness | Lead Gen Email Signups), Apple devices were used to view ads more so. Thus, given any increase in concentration of Android devices, I was looking for differences in impression data.  
 <img src="images/Device_For_Percentage.png"/>
+<br>
+<a href="https://public.tableau.com/profile/hunter.walker#!/vizhome/AltRock/Sheet1?publish=yes">Tableau Public Link</a>
 <br>
 ## [Impressions vs. Device Brand](pdf/companyX_impressions_vs_brand.pdf)
 <br>
