@@ -81,7 +81,7 @@ Library.
   
  <img src="images/bears.png"/>
  
- ## Company 'X' Data Analysis
+## Company 'X' Data Analysis
 
 <img src="images/Distinct_Campaigns.png"/>
 <br>
@@ -89,10 +89,10 @@ Library.
 <br>
 <img src="images/Device_For_Percentage.png"/>
 <br>
-[Impressions vs. Device Brand](pdf/companyX_impressions_vs_brand.pdf)
+## [Impressions vs. Device Brand](pdf/companyX_impressions_vs_brand.pdf)
 <br>
 <img src="images/platform_position_q.png"/>
 <br>
-[Platform Position Per Ad Group Per Campaign](pdf/companyX_platform_position_perAdGroup_perCampaign.pdf)
+## [Platform Position Per Ad Group Per Campaign](pdf/companyX_platform_position_perAdGroup_perCampaign.pdf)
 <br>
   
