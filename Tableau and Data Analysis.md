@@ -101,11 +101,13 @@ Library.
 <br>
 **Step 4:** To further the study I needed to view where ads were being viewed using the 'platform position.'
 <br>
+## [Platform Position Query](images/platform_position_q.png)
 <img src="images/platform_position_q.png"/>
 <br>
 ## [Platform Position Per Ad Group Per Campaign Data](pdf/companyX_platform_position_perAdGroup_perCampaign.pdf)
 <br>
 **Step 5:** I then needed to view the relationship between the specific devices which were categorized under impressions and the impressions themselves. 
+<br>
 ## [Impression Device Ad Views](pdf/companyX_impressionDevice.pdf)
 
   
