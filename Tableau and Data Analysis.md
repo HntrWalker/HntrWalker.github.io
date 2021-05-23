@@ -111,7 +111,7 @@ Library.
 [Platform Position Query](images/platform_position_q.png)
 <br>
 <br>
-**Dataset 2:**[Platform Position Per Ad Group Per Campaign](pdf/companyX_platform_position_perAdGroup_perCampaign.pdf)
+**Dataset 2:** [Platform Position Per Ad Group Per Campaign](pdf/companyX_platform_position_perAdGroup_perCampaign.pdf)
 <br>
 <br>
 **Step 5:** I then needed to view the relationship between the specific devices which were categorized under impressions and the impressions themselves. 
