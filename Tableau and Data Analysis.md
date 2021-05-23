@@ -95,9 +95,11 @@ Library.
 <br>
 [Aggregate Query](images/Average_Impressions_Per_Ad_Group.png)
 <br>
+<br>
 **Step 3:** The goal was to view the impressions against the device brand in order to determine the impact of brand on ad performance. In all cases other than campaign #2 (6097547919387, Awareness | Lead Gen Email Signups), Apple devices were used to view ads more so. Thus, given any increase in concentration of Android devices, I was looking for differences in impression data. 
 <br>
 [Device Brand Percentage Query](images/Device_For_Percentage.png)
+<br>
 <br>
 <a href="https://public.tableau.com/profile/hunter.walker#!/vizhome/AltRock/Sheet1?publish=yes">Tableau Public Link</a>
 <br>
@@ -106,6 +108,7 @@ Library.
 **Step 4:** To further the study I needed to view where ads were being viewed using the 'platform position.'
 <br>
 [Platform Position Query](images/platform_position_q.png)
+<br>
 <br>
 **Dataset 2:**[Platform Position Per Ad Group Per Campaign](pdf/companyX_platform_position_perAdGroup_perCampaign.pdf)
 <br>
