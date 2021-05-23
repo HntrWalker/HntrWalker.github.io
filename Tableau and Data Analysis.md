@@ -90,6 +90,7 @@ Library.
 <br>
 [Campaigns Query](images/Distinct_Campaigns.png)
 <br>
+<br>
 **Step 2:** I then utilized aggregate functions (MAX, AVG) to conceptualize the performance of each ad grouping in terms of 'impressions.'
 <br>
 [Aggregate Query](images/Average_Impressions_Per_Ad_Group.png)
