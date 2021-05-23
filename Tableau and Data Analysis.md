@@ -87,26 +87,29 @@ Library.
 **How do UX factors play into ad performance? How might variables outside of marketing control be mitigated?**
 
 **Step 1:** I first needed to take into account the unique campaigns present and their internal ad groupings. 
+<br>
 [Campaigns Query](images/Distinct_Campaigns.png)
 <br>
 **Step 2:** I then utilized aggregate functions (MAX, AVG) to conceptualize the performance of each ad grouping in terms of 'impressions.'
+<br>
 [Aggregate Query](images/Average_Impressions_Per_Ad_Group.png)
 <br>
-**Step 3:** The goal was to view the impressions against the device brand in order to determine the impact of brand on ad performance. In all cases other than campaign #2 (6097547919387, Awareness | Lead Gen Email Signups), Apple devices were used to view ads more so. Thus, given any increase in concentration of Android devices, I was looking for differences in impression data.  
+**Step 3:** The goal was to view the impressions against the device brand in order to determine the impact of brand on ad performance. In all cases other than campaign #2 (6097547919387, Awareness | Lead Gen Email Signups), Apple devices were used to view ads more so. Thus, given any increase in concentration of Android devices, I was looking for differences in impression data. 
+<br>
 [Device Brand Percentage Query](images/Device_For_Percentage.png)
 <br>
 <a href="https://public.tableau.com/profile/hunter.walker#!/vizhome/AltRock/Sheet1?publish=yes">Tableau Public Link</a>
 <br>
-## [Impressions vs. Device Brand Data](pdf/companyX_impressions_vs_brand.pdf)
+**Dataset 1:** [Impressions vs. Device Brand](pdf/companyX_impressions_vs_brand.pdf)
 <br>
 **Step 4:** To further the study I needed to view where ads were being viewed using the 'platform position.'
 <br>
 [Platform Position Query](images/platform_position_q.png)
 <br>
-## [Platform Position Per Ad Group Per Campaign Data](pdf/companyX_platform_position_perAdGroup_perCampaign.pdf)
+**Dataset 2:**[Platform Position Per Ad Group Per Campaign](pdf/companyX_platform_position_perAdGroup_perCampaign.pdf)
 <br>
 **Step 5:** I then needed to view the relationship between the specific devices which were categorized under impressions and the impressions themselves. 
 <br>
-## [Impression Device Ad Views](pdf/companyX_impressionDevice.pdf)
+**Dataset 3:** [Impression Device Ad Views](pdf/companyX_impressionDevice.pdf)
 
   
