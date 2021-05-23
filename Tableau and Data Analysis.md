@@ -105,6 +105,7 @@ Library.
 <br>
 **Dataset 1:** [Impressions vs. Device Brand](pdf/companyX_impressions_vs_brand.pdf)
 <br>
+<br>
 **Step 4:** To further the study I needed to view where ads were being viewed using the 'platform position.'
 <br>
 [Platform Position Query](images/platform_position_q.png)
