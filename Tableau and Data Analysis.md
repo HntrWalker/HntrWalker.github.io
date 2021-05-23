@@ -105,4 +105,7 @@ Library.
 <br>
 ## [Platform Position Per Ad Group Per Campaign Data](pdf/companyX_platform_position_perAdGroup_perCampaign.pdf)
 <br>
+**Step 5:** I then needed to view the relationship between the specific devices which were categorized under impressions and the impressions themselves. 
+## [Impression Device Ad Views](pdf/companyX_impressionDevice.pdf)
+
   
