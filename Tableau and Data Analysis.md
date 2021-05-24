@@ -117,6 +117,7 @@ Library.
 **Step 5:** I then needed to view the relationship between the specific devices which were categorized under impressions and the impressions themselves. 
 <br>
 <br>
+<a href="https://public.tableau.com/profile/hunter.walker#!/vizhome/CompanyXUXAnalysis/Story1?publish=yes">Tableau Public Link</a>
 **Dataset 3:** [Impression Device Ad Views](pdf/companyX_impressionDevice.pdf)
 <br>
 <br>
