@@ -118,6 +118,7 @@ Library.
 <br>
 <br>
 <a href="https://public.tableau.com/profile/hunter.walker#!/vizhome/CompanyXUXAnalysis/Story1?publish=yes">Tableau Public Link</a>
+<br>
 **Dataset 3:** [Impression Device Ad Views](pdf/companyX_impressionDevice.pdf)
 <br>
 <br>
