@@ -101,7 +101,7 @@ Library.
 [Device Brand Percentage Query](images/Device_For_Percentage.png)
 <br>
 <br>
-<a href="https://public.tableau.com/profile/hunter.walker#!/vizhome/AltRock/Sheet1?publish=yes">Tableau Public Link</a>
+<a href="https://public.tableau.com/profile/hunter.walker#!/vizhome/BrandImpactonImpressions/Dashboard1?publish=yes">Tableau Public Link</a>
 <br>
 **Dataset 1:** [Impressions vs. Device Brand](pdf/companyX_impressions_vs_brand.pdf)
 <br>
