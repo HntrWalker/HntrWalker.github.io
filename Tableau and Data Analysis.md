@@ -111,6 +111,8 @@ Library.
 [Platform Position Query](images/platform_position_q.png)
 <br>
 <br>
+<a href="https://public.tableau.com/profile/hunter.walker#!/vizhome/PlatformPositionConcentrationvsAverageCampaignImpressions/Story1?publish=yes">Tableau Public Link</a>
+<br>
 **Dataset 2:** [Platform Position Per Ad Group Per Campaign](pdf/companyX_platform_position_perAdGroup_perCampaign.pdf)
 <br>
 <br>
